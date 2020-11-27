@@ -64,8 +64,8 @@ In order to train our agent we have to:
 
 1. Initialize the agent
 2. Evaluate state and action space
-3. Train the agent using Double Deep Q-Networks (DDQN). 
-4. Iterate until agent reaches the score of 13.0
+3. Train the agent using DDPG. 
+4. Iterate until the mean score of the 100 last episodes reaches the value of 30.
 
-You can train the agent following the instructions in the notebook Navigation.ipynb.
+You can train the agent following the instructions in the notebook Continious_Control.ipynb.
 
