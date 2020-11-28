@@ -48,7 +48,7 @@ Our agent was trained using the follwing hyperparameters:
 
 # Results
 
-The agent was able to solve the environment after 514 episodes with the average score of 13.08 during the last 100 episodes.
+The agent was able to solve the environment after 371 episodes with the average score of 30.05 during the last 100 episodes.
 
 ![Image of Yaktocat](https://github.com/sabrinekr/Continuous-Control-PPO/blob/main/images/ddpg.png?raw=true)
 
